@@ -39,10 +39,11 @@ body
 {
 	text-align:center;
 }
+
 #right
 {
 	display:inline-block;
-	width: 71%;
+	width: 70%;
 	padding:2%;
 	height: 550px;
 	border:#000 1px solid;
@@ -51,9 +52,9 @@ body
 #bottom
 {
 	height:70px;
-	background:url(icon/bot.png);
 	background-size:cover;
 }
+
 .al
 {
 	padding:10px;
