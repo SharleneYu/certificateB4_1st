@@ -1,3 +1,7 @@
+
+
+
+
 <h2>第一次購物</h2>
 <a href="javascript:location.href='?do=reg'"><img src="./icon/0413.jpg" alt=""></a>
 
@@ -28,4 +32,6 @@
     </tr>
 
 </table>
-<div class="ct"><button>確認</button></div>
+<div class="ct">
+    <button onclick="login('User')">確認</button>
+</div>

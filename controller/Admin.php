@@ -17,7 +17,8 @@ class Admin extends DB{
     }
 
     function backend(){
-        $view['rows']=$this->all();
-        return $this->view("./view/backend/admin.php",$view);
+        return $this->view("./view/backend.admin.php", $view);
     }
+
+
 }
